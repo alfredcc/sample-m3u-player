@@ -1,6 +1,6 @@
-<img width="802" alt="220111644586390_ pic" src="https://user-images.githubusercontent.com/5411840/153602446-3554c03e-5680-42f8-b944-6c07b347d5b5.png">
+<img width="629" alt="image" src="https://user-images.githubusercontent.com/5411840/153602584-e38abbdb-8b63-4176-a4d5-7ea5b993f115.png">
 
-<img width="802" alt="220101644586367_ pic" src="https://user-images.githubusercontent.com/5411840/153602460-6e3b78b6-2304-4071-ba7f-9d6ebfe44f6c.png">
+<img width="606" alt="image" src="https://user-images.githubusercontent.com/5411840/153602678-bc6ac771-7452-4afc-9079-2b43232009e9.png">
 
 Thanks to
 - https://github.com/Rubenfer/M3UKit
