@@ -1,0 +1,25 @@
+{
+  "object": {
+    "pins": [
+      {
+        "package": "Kingfisher",
+        "repositoryURL": "https://github.com/onevcat/Kingfisher",
+        "state": {
+          "branch": null,
+          "revision": "0c02c46cfdc0656ce74fd0963a75e5000a0b7f23",
+          "version": "7.1.2"
+        }
+      },
+      {
+        "package": "Player",
+        "repositoryURL": "https://github.com/piemonte/Player",
+        "state": {
+          "branch": null,
+          "revision": "d6a6c266e80f90fa93430371076964c196a1d2ec",
+          "version": "0.14.0"
+        }
+      }
+    ]
+  },
+  "version": 1
+}
