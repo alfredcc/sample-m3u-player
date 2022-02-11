@@ -12,7 +12,8 @@ class ListViewModel: ObservableObject {
     @Published var channels: [M3U.Channel] = []
     
     func fetchData() {
-        let url = "https://grow-click.oss-cn-hangzhou.aliyuncs.com/img/IPTV.m3u"
+        // your m3u url
+        let url = ""
         HTTPClient.shared.fetchFromUrl(url) { result in
             switch result {
             case .success(let data):
